@@ -1,3 +1,0 @@
-# HackerRank ID
-
-adithyadvarma10
